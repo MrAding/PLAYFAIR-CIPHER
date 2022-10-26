@@ -1,6 +1,13 @@
 # PLAYFAIR-CIPHER
 Tugas Pertemuan 6 - KRIPTOGRAFI
 
+```
+Nama       : Ahmad Fadhiil Muttaqin
+NIM        : 312010615
+Kelas      : TI.20.A.1
+Matakuliah : Kriptografi
+```
+
 # PLAYFAIR-CIPHER-PYTHON-
 
 
