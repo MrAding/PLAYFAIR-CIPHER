@@ -36,3 +36,4 @@ PLAIN TEXT: GO OD BR OX OM SW EX EP CL EA NX
  3. EXIT
 
 # Next >> Klik file "Screenshot Encrypt & Decrypt"
+https://github.com/MrAding/PLAYFAIR-CIPHER/tree/main/Screenshot%20Encrypt%20%26%20Decrypt%20PlayFair%20Cipher
