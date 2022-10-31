@@ -10,27 +10,29 @@ Matakuliah : Kriptografi
 
 # PLAYFAIR-CIPHER-PYTHON-
 
-
+![GOOD BROOM SWEEP CLEAN](https://user-images.githubusercontent.com/46867774/198994940-dc6ae2fb-d050-4a2f-8ecf-df0cf49625ef.jpg)
 
 ## OUTPUT
 
-Enter key: NETWORK
+Enter key: TEKNIK INFORMATIKA
 
  1. Encryption 
  2. Decryption: 
  3. EXIT1
 
-ENTER MSG: SECURITY
+ENTER MSG : GOOD BROOM SWEEP CLEAN
 
-CIPHER TEXT: MO RZ CD WX 
+CIPHER TEXT : CM RC DF RW RA PY KW OW BP IO KY
 
 1. Encryption 
 2. Decryption: 
 3. EXIT2
 
-ENTER CIPHER TEXT: MORZCDWX
+ENTER CIPHER TEXT: CM RC DF RW RA PY KW OW BP IO KY
 
-PLAIN TEXT: SE CU RI TY 
+PLAIN TEXT: GO OD BR OX OM SW EX EP CL EA NX
  1. Encryption 
  2. Decryption: 
  3. EXIT
+
+# Next >> Klik file "Screenshot Encrypt & Decrypt"
